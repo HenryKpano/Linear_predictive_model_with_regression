@@ -1,5 +1,5 @@
 # Linear_predictive_model_with_regression
-This determines the linear correlation between two datasets. Also it trains a model to predict the values of yieldf items in 
+This determines the linear correlation between two datasets. Also it trains a model to predict the values of yield items for farm products in tonnes.
 # Make sure to have install juputer notebook
 if not read this to install https://henrykpano.medium.com/starting-sql-by-using-jupyter-notebook-installations-needed-a632a047c16a
 Open your terminal to run jupyter notebook
